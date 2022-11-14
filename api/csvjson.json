@@ -1,0 +1,5810 @@
+[
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc1",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc2",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc3",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc4",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc5",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc6",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc7",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc8",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc9",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc10",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc12",
+    "Date": "1/10/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc13",
+    "Date": "1/11/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc14",
+    "Date": "1/12/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/13/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/14/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr22",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr23",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr24",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/10/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/11/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/12/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt36",
+    "Date": "1/13/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt37",
+    "Date": "1/14/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt38",
+    "Date": "1/15/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt39",
+    "Date": "3/6/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt40",
+    "Date": "3/7/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt41",
+    "Date": "3/8/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt42",
+    "Date": "3/9/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt43",
+    "Date": "3/10/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt44",
+    "Date": "3/11/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/12/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/13/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/14/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/15/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/16/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty124",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty125",
+    "Date": "5/16/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty126",
+    "Date": "5/17/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj123",
+    "Date": "5/18/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj124",
+    "Date": "5/19/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/20/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/21/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/22/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/23/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/24/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg465",
+    "Date": "5/25/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg466",
+    "Date": "5/26/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg467",
+    "Date": "5/27/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg468",
+    "Date": "5/28/2022"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo455",
+    "Date": "6/15/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo456",
+    "Date": "6/16/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo457",
+    "Date": "6/17/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo458",
+    "Date": "6/18/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo459",
+    "Date": "6/19/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo460",
+    "Date": "6/20/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo461",
+    "Date": "6/21/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo462",
+    "Date": "6/22/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo463",
+    "Date": "6/23/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo464",
+    "Date": "6/24/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/25/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/18/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/19/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/20/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/21/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/22/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/23/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/24/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/25/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/26/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/27/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/28/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/29/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/30/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/31/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/12/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio223",
+    "Date": "3/13/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio224",
+    "Date": "3/14/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio225",
+    "Date": "3/15/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio226",
+    "Date": "3/16/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio227",
+    "Date": "3/17/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio228",
+    "Date": "3/18/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio229",
+    "Date": "3/19/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio230",
+    "Date": "3/20/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq345",
+    "Date": "6/18/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/19/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq347",
+    "Date": "6/20/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq348",
+    "Date": "6/21/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/22/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/23/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/24/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq352",
+    "Date": "6/25/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq353",
+    "Date": "6/26/2019"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc1",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc2",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc3",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc4",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc5",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc6",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc7",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc8",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc9",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc10",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc12",
+    "Date": "1/10/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc13",
+    "Date": "1/11/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc14",
+    "Date": "1/12/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/13/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/14/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr22",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr23",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr24",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/10/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/11/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/12/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt36",
+    "Date": "1/13/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt37",
+    "Date": "1/14/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt38",
+    "Date": "1/15/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt39",
+    "Date": "3/6/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt40",
+    "Date": "3/7/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt41",
+    "Date": "3/8/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt42",
+    "Date": "3/9/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt43",
+    "Date": "3/10/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt44",
+    "Date": "3/11/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/12/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/13/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/14/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/15/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/16/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty124",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty125",
+    "Date": "5/16/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty126",
+    "Date": "5/17/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj123",
+    "Date": "5/18/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj124",
+    "Date": "5/19/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/20/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/21/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/22/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/23/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/24/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg465",
+    "Date": "5/25/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg466",
+    "Date": "5/26/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg467",
+    "Date": "5/27/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg468",
+    "Date": "5/28/2022"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo455",
+    "Date": "6/15/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo456",
+    "Date": "6/16/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo457",
+    "Date": "6/17/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo458",
+    "Date": "6/18/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo459",
+    "Date": "6/19/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo460",
+    "Date": "6/20/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo461",
+    "Date": "6/21/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo462",
+    "Date": "6/22/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo463",
+    "Date": "6/23/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo464",
+    "Date": "6/24/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/25/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/18/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/19/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/20/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/21/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/22/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/23/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/24/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/25/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/26/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/27/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/28/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/29/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/30/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/31/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/12/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio223",
+    "Date": "3/13/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio224",
+    "Date": "3/14/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio225",
+    "Date": "3/15/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio226",
+    "Date": "3/16/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio227",
+    "Date": "3/17/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio228",
+    "Date": "3/18/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio229",
+    "Date": "3/19/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio230",
+    "Date": "3/20/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq345",
+    "Date": "6/18/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/19/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq347",
+    "Date": "6/20/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq348",
+    "Date": "6/21/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/22/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/23/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/24/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq352",
+    "Date": "6/25/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq353",
+    "Date": "6/26/2019"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo455",
+    "Date": "6/15/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo456",
+    "Date": "6/16/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo457",
+    "Date": "6/17/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo458",
+    "Date": "6/18/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo459",
+    "Date": "6/19/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo460",
+    "Date": "6/20/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo461",
+    "Date": "6/21/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo462",
+    "Date": "6/22/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo463",
+    "Date": "6/23/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo464",
+    "Date": "6/24/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/25/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc1",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc2",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc3",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc4",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc5",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc6",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc7",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc8",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc9",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc10",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc12",
+    "Date": "1/10/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc13",
+    "Date": "1/11/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc14",
+    "Date": "1/12/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/13/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/14/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr22",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr23",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr24",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/10/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/11/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/12/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt36",
+    "Date": "1/13/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt37",
+    "Date": "1/14/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt38",
+    "Date": "1/15/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt39",
+    "Date": "3/6/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt40",
+    "Date": "3/7/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt41",
+    "Date": "3/8/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt42",
+    "Date": "3/9/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt43",
+    "Date": "3/10/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt44",
+    "Date": "3/11/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/12/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/13/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/14/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/15/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/16/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty124",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty125",
+    "Date": "5/16/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty126",
+    "Date": "5/17/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj123",
+    "Date": "5/18/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj124",
+    "Date": "5/19/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/20/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/21/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/22/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/23/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/24/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg465",
+    "Date": "5/25/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg466",
+    "Date": "5/26/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg467",
+    "Date": "5/27/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg468",
+    "Date": "5/28/2022"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo455",
+    "Date": "6/15/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo456",
+    "Date": "6/16/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo457",
+    "Date": "6/17/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo458",
+    "Date": "6/18/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo459",
+    "Date": "6/19/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo460",
+    "Date": "6/20/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo461",
+    "Date": "6/21/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo462",
+    "Date": "6/22/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo463",
+    "Date": "6/23/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo464",
+    "Date": "6/24/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/25/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/18/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/19/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/20/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/21/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/22/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/23/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/24/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/25/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/26/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/27/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/28/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/29/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/30/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/31/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/12/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio223",
+    "Date": "3/13/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio224",
+    "Date": "3/14/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio225",
+    "Date": "3/15/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio226",
+    "Date": "3/16/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio227",
+    "Date": "3/17/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio228",
+    "Date": "3/18/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio229",
+    "Date": "3/19/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio230",
+    "Date": "3/20/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq345",
+    "Date": "6/18/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/19/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq347",
+    "Date": "6/20/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq348",
+    "Date": "6/21/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/22/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/23/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/24/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq352",
+    "Date": "6/25/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq353",
+    "Date": "6/26/2019"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc1",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc2",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc3",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc4",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc5",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc6",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc7",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc8",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc9",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc10",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc12",
+    "Date": "1/10/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc13",
+    "Date": "1/11/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc14",
+    "Date": "1/12/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/13/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/14/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr22",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr23",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr24",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/10/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/11/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/12/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt36",
+    "Date": "1/13/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt37",
+    "Date": "1/14/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt38",
+    "Date": "1/15/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt39",
+    "Date": "3/6/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt40",
+    "Date": "3/7/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt41",
+    "Date": "3/8/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt42",
+    "Date": "3/9/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt43",
+    "Date": "3/10/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt44",
+    "Date": "3/11/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/12/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/13/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/14/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/15/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/16/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty124",
+    "Date": "3/17/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty125",
+    "Date": "3/18/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty126",
+    "Date": "3/19/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj123",
+    "Date": "3/20/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj124",
+    "Date": "3/21/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/20/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/21/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/22/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/23/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/24/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg465",
+    "Date": "5/25/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg466",
+    "Date": "5/26/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg467",
+    "Date": "5/27/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg468",
+    "Date": "5/28/2022"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo455",
+    "Date": "6/15/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo456",
+    "Date": "6/16/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo457",
+    "Date": "6/17/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo458",
+    "Date": "6/18/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo459",
+    "Date": "6/19/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo460",
+    "Date": "6/20/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo461",
+    "Date": "6/21/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo462",
+    "Date": "6/22/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo463",
+    "Date": "6/23/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo464",
+    "Date": "6/24/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/25/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/18/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/19/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/20/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/21/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/22/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/23/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/24/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/25/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/26/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/27/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/28/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/29/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/30/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/31/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/1/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio223",
+    "Date": "4/2/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio224",
+    "Date": "4/3/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio225",
+    "Date": "4/4/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio226",
+    "Date": "4/5/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio227",
+    "Date": "4/6/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio228",
+    "Date": "4/7/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio229",
+    "Date": "4/8/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio230",
+    "Date": "4/9/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/10/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/11/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/12/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/13/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/14/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/15/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq345",
+    "Date": "4/16/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "4/17/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq347",
+    "Date": "6/20/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq348",
+    "Date": "6/21/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/22/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/23/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/24/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq352",
+    "Date": "6/25/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq352",
+    "Date": "6/26/2019"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/15/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/16/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/17/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/18/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/19/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/20/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/21/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/22/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/23/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/24/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/25/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo455",
+    "Date": "6/15/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo456",
+    "Date": "6/16/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo457",
+    "Date": "6/17/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo458",
+    "Date": "6/18/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo459",
+    "Date": "6/19/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo460",
+    "Date": "6/20/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo461",
+    "Date": "6/21/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo462",
+    "Date": "6/22/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo463",
+    "Date": "6/23/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo464",
+    "Date": "6/24/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/25/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/26/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/27/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/28/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/29/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/30/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "7/1/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "7/2/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "7/3/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "7/4/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/26/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/27/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/28/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/29/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/30/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/31/2021"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc1",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc2",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc3",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc4",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc5",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc6",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc7",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc8",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc9",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc10",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc12",
+    "Date": "1/10/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc13",
+    "Date": "1/11/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc14",
+    "Date": "1/12/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/13/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/14/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr22",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr23",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr24",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/10/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/11/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/12/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt36",
+    "Date": "1/13/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt37",
+    "Date": "1/14/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt38",
+    "Date": "1/15/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt39",
+    "Date": "3/6/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt40",
+    "Date": "3/7/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt41",
+    "Date": "3/8/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt42",
+    "Date": "3/9/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt43",
+    "Date": "3/10/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt44",
+    "Date": "3/11/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/12/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/13/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/14/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/15/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/16/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty124",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty125",
+    "Date": "5/16/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty126",
+    "Date": "5/17/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj123",
+    "Date": "5/18/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj124",
+    "Date": "5/19/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/20/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/21/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/22/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/23/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/24/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg465",
+    "Date": "5/25/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg466",
+    "Date": "5/26/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg467",
+    "Date": "5/27/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg468",
+    "Date": "5/28/2022"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo455",
+    "Date": "6/15/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo456",
+    "Date": "6/16/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo457",
+    "Date": "6/17/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo458",
+    "Date": "6/18/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo459",
+    "Date": "6/19/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo460",
+    "Date": "6/20/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo461",
+    "Date": "6/21/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo462",
+    "Date": "6/22/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo463",
+    "Date": "6/23/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo464",
+    "Date": "6/24/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/25/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/18/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/19/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/20/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/21/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/22/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/23/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/24/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/25/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/26/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/27/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/28/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/29/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/30/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/31/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/12/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio223",
+    "Date": "3/13/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio224",
+    "Date": "3/14/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio225",
+    "Date": "3/15/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio226",
+    "Date": "3/16/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio227",
+    "Date": "3/17/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio228",
+    "Date": "3/18/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio229",
+    "Date": "3/19/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio230",
+    "Date": "3/20/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq345",
+    "Date": "6/18/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/19/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq347",
+    "Date": "6/20/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq348",
+    "Date": "6/21/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/22/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/23/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/24/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq352",
+    "Date": "6/25/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq353",
+    "Date": "6/26/2019"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc1",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc2",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc3",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc4",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc5",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc6",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc7",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc8",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc9",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc10",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc12",
+    "Date": "1/10/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc13",
+    "Date": "1/11/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc14",
+    "Date": "1/12/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/13/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/14/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr22",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr23",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr24",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/10/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/11/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/12/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt36",
+    "Date": "1/13/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt37",
+    "Date": "1/14/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt38",
+    "Date": "1/15/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt39",
+    "Date": "3/6/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt40",
+    "Date": "3/7/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt41",
+    "Date": "3/8/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt42",
+    "Date": "3/9/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt43",
+    "Date": "3/10/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt44",
+    "Date": "3/11/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/12/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/13/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/14/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/15/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/16/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty124",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty125",
+    "Date": "5/16/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty126",
+    "Date": "5/17/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj123",
+    "Date": "5/18/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj124",
+    "Date": "5/19/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/20/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/21/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/22/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/23/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/24/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg465",
+    "Date": "5/25/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg466",
+    "Date": "5/26/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg467",
+    "Date": "5/27/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg468",
+    "Date": "5/28/2022"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo455",
+    "Date": "6/15/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo456",
+    "Date": "6/16/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo457",
+    "Date": "6/17/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo458",
+    "Date": "6/18/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo459",
+    "Date": "6/19/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo460",
+    "Date": "6/20/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo461",
+    "Date": "6/21/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo462",
+    "Date": "6/22/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo463",
+    "Date": "6/23/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo464",
+    "Date": "6/24/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/25/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/18/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/19/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/20/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/21/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/22/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/23/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/24/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/25/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/26/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/27/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/28/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/29/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/30/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/31/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/12/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio223",
+    "Date": "3/13/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio224",
+    "Date": "3/14/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio225",
+    "Date": "3/15/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio226",
+    "Date": "3/16/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio227",
+    "Date": "3/17/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio228",
+    "Date": "3/18/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio229",
+    "Date": "3/19/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio230",
+    "Date": "3/20/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq345",
+    "Date": "6/18/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/19/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq347",
+    "Date": "6/20/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq348",
+    "Date": "6/21/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/22/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/23/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/24/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq352",
+    "Date": "6/25/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq353",
+    "Date": "6/26/2019"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo455",
+    "Date": "6/15/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo456",
+    "Date": "6/16/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo457",
+    "Date": "6/17/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo458",
+    "Date": "6/18/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo459",
+    "Date": "6/19/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo460",
+    "Date": "6/20/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo461",
+    "Date": "6/21/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo462",
+    "Date": "6/22/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo463",
+    "Date": "6/23/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo464",
+    "Date": "6/24/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/25/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc1",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc2",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc3",
+    "Date": "5/5/2020"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc4",
+    "Date": "5/6/2020"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc5",
+    "Date": "5/7/2020"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc6",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc7",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc8",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc9",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc10",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc12",
+    "Date": "1/10/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc13",
+    "Date": "1/11/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc14",
+    "Date": "1/12/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/13/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/14/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr22",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr23",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr24",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/10/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/11/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/12/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt36",
+    "Date": "1/13/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt37",
+    "Date": "1/14/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt38",
+    "Date": "1/15/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt39",
+    "Date": "3/6/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt40",
+    "Date": "3/7/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt41",
+    "Date": "3/8/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt42",
+    "Date": "3/9/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt43",
+    "Date": "3/10/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt44",
+    "Date": "3/11/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/12/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/13/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/14/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/15/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/16/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty124",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty125",
+    "Date": "5/16/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty126",
+    "Date": "5/17/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj123",
+    "Date": "5/18/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj124",
+    "Date": "5/19/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/20/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/21/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/22/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/23/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/24/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg465",
+    "Date": "5/25/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg466",
+    "Date": "5/26/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg467",
+    "Date": "5/27/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg468",
+    "Date": "5/28/2022"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo455",
+    "Date": "6/15/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo456",
+    "Date": "6/16/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo457",
+    "Date": "6/17/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo458",
+    "Date": "6/18/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo459",
+    "Date": "6/19/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo460",
+    "Date": "6/20/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo461",
+    "Date": "6/21/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo462",
+    "Date": "6/22/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo463",
+    "Date": "6/23/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo464",
+    "Date": "6/24/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/25/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/18/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/19/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/20/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/21/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/22/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/23/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/24/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/25/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/26/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/27/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/28/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/29/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/30/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/31/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/12/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio223",
+    "Date": "3/13/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio224",
+    "Date": "3/14/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio225",
+    "Date": "3/15/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio226",
+    "Date": "3/16/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio227",
+    "Date": "3/17/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio228",
+    "Date": "3/18/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio229",
+    "Date": "3/19/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio230",
+    "Date": "3/20/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "3/21/2018"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq345",
+    "Date": "6/18/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/19/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq347",
+    "Date": "6/20/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq348",
+    "Date": "6/21/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/22/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/23/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/24/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq352",
+    "Date": "6/25/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq353",
+    "Date": "6/26/2019"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc1",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc2",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc3",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc4",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc5",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc6",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Circunvalacion",
+    "Salesman name": "abc7",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc8",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc9",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "Pando",
+    "Salesman name": "abc10",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc12",
+    "Date": "1/10/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc13",
+    "Date": "1/11/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc14",
+    "Date": "1/12/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/13/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/14/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "North",
+    "Store": "America",
+    "Salesman name": "abc11",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr22",
+    "Date": "1/1/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr23",
+    "Date": "1/2/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Plaza",
+    "Salesman name": "cfr24",
+    "Date": "1/3/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/4/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/5/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/6/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/7/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/8/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/9/2018"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/10/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/11/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt35",
+    "Date": "1/12/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt36",
+    "Date": "1/13/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt37",
+    "Date": "1/14/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt38",
+    "Date": "1/15/2019"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt39",
+    "Date": "3/6/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt40",
+    "Date": "3/7/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt41",
+    "Date": "3/8/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt42",
+    "Date": "3/9/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt43",
+    "Date": "3/10/2020"
+  },
+  {
+    "Zone": "Central",
+    "Store": "Aroma",
+    "Salesman name": "fgt44",
+    "Date": "3/11/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/12/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/13/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/14/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/15/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty123",
+    "Date": "3/16/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty124",
+    "Date": "3/17/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty125",
+    "Date": "3/18/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Muyurina",
+    "Salesman name": "rty126",
+    "Date": "3/19/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj123",
+    "Date": "3/20/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj124",
+    "Date": "3/21/2020"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/20/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/21/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/22/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/23/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pacata",
+    "Salesman name": "ghj125",
+    "Date": "5/24/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg465",
+    "Date": "5/25/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg466",
+    "Date": "5/26/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg467",
+    "Date": "5/27/2022"
+  },
+  {
+    "Zone": "East",
+    "Store": "Pueblito",
+    "Salesman name": "vbg468",
+    "Date": "5/28/2022"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo455",
+    "Date": "6/15/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo456",
+    "Date": "6/16/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo457",
+    "Date": "6/17/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo458",
+    "Date": "6/18/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo459",
+    "Date": "6/19/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo460",
+    "Date": "6/20/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo461",
+    "Date": "6/21/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo462",
+    "Date": "6/22/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo463",
+    "Date": "6/23/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo464",
+    "Date": "6/24/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/25/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/17/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/18/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/19/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/20/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/21/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/22/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/23/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/24/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/25/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/26/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/27/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/28/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/29/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/30/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/31/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/1/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio223",
+    "Date": "4/2/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio224",
+    "Date": "4/3/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio225",
+    "Date": "4/4/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio226",
+    "Date": "4/5/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio227",
+    "Date": "4/6/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio228",
+    "Date": "4/7/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio229",
+    "Date": "4/8/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio230",
+    "Date": "4/9/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/10/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/11/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/12/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/13/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/14/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Panamericana",
+    "Salesman name": "pio222",
+    "Date": "4/15/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq345",
+    "Date": "4/16/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "4/17/2021"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq347",
+    "Date": "6/20/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq348",
+    "Date": "6/21/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/22/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/23/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq346",
+    "Date": "6/24/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq352",
+    "Date": "6/25/2019"
+  },
+  {
+    "Zone": "South",
+    "Store": "Kanata",
+    "Salesman name": "pqq352",
+    "Date": "6/26/2019"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/15/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/16/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/17/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/18/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/19/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/20/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/21/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/22/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/23/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/24/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "pqq352",
+    "Date": "6/25/2018"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo455",
+    "Date": "6/15/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo456",
+    "Date": "6/16/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo457",
+    "Date": "6/17/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo458",
+    "Date": "6/18/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo459",
+    "Date": "6/19/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo460",
+    "Date": "6/20/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo461",
+    "Date": "6/21/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo462",
+    "Date": "6/22/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo463",
+    "Date": "6/23/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo464",
+    "Date": "6/24/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/25/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/26/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/27/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/28/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/29/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "6/30/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "7/1/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "7/2/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "7/3/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "7/4/2020"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/26/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/27/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/28/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/29/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/30/2021"
+  },
+  {
+    "Zone": "West",
+    "Store": "Beijing",
+    "Salesman name": "ppo465",
+    "Date": "3/31/2021"
+  }
+]
